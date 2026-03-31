@@ -33,7 +33,7 @@ git clone https://github.com/urlink
 
 ### Step 2: Navigate to directory
 
-cd oss-audit-regno-
+cd oss-audit-24BAI10089
 
 ### Step 3: Give permission
 
